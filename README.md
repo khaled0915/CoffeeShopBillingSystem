@@ -42,7 +42,6 @@ The system relies on a **normalized SQL database** to ensure data accuracy, secu
 ---
 
 ## 📸 Screenshots 
-_Add some screenshots of the login page, product management, and invoice generation UI._
 1) Login Page : <img width="510" height="332" alt="login-page" src="https://github.com/user-attachments/assets/b6da1515-d29f-4cf2-8d05-320f14a3b232" />
 2) Admin Dashboard : <img width="543" height="400" alt="admin-dashboard" src="https://github.com/user-attachments/assets/47d07cde-ff59-4f14-98a9-2679f5001654" />
 3) Employee Dashboard : <img width="537" height="341" alt="emp-dashboard" src="https://github.com/user-attachments/assets/ba42ea02-5cfd-48d8-a0ce-15c8c7d6a007" />
